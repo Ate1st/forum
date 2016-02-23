@@ -21,6 +21,8 @@ class request implements IRequest
         {
             self::$route = explode('/', array_shift($request));
             
+            
+            
             if(empty(self::$route[1]))
             {
                 self::$route[1] = $config['default_action'];

@@ -119,11 +119,8 @@ class model_info
                 $exists = true;   
             }
             
-            //var_dump($pr->getName().'------------------'.$name.'============='.$exists);
         }
-        
-        //var_dump($exists); 
-        
+
         if($exists === FALSE)
         {
             return false;
@@ -131,7 +128,6 @@ class model_info
         }
         
         $prop = $this->ref_class->getProperty($name);
-        //var_dump($prop);
         $prop->setAccessible(true);
         return $prop->getValue($this->instance); 
     }
