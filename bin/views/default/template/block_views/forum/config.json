@@ -1,0 +1,11 @@
+{
+    "messages":"messages.php",
+ "new_teme":"new_teme.php",
+ "add_teme":"add_teme.php",
+ "temes":"temes.php", 
+ "add":"add.php",  
+ "sections":"sections.php",  
+ "new_forum":"new_forum.php", 
+ "css":"css",
+ "js":"js"
+ }

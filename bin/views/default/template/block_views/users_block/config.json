@@ -1,0 +1,7 @@
+{
+ "registration":"registration.php",  
+ "index":"index.php",
+ "auth_block":"auth_block.php",
+ "css":"css",
+ "js":"js"
+ }

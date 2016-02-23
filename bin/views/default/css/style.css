@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28.10.2015, 17:05:53
+    Author     : vasilyevab
+*/
+
+.tab{
+    border-color: black;
+    font: 18px;
+}
+
+.body{
+   
+    height: 1500px;
+    overflow: auto;
+    width: 1500px;
+    position: fixed;
+
+}
+
+.fill{
+    background: url(http://www.beget.dev/bin/views/default/img/header.jpg) ;
+    height: 200px;
+    overflow: auto;
+}
+
+.footer{
+    background-color: #d9f3f4;
+    height: 200px;
+}
+
+.content{
+    background-color: #d9f3f4;
+    position: relative;
+    padding: 0;
+
+}
+
+.reg_content{
+    height: 700px;
+    overflow: auto;
+}
+
+.footer{
+    height: 200px;
+    background-color: #d9f3f4;
+    margin: 0;
+}
+
+.lc{
+    height: 800px;
+}
+
+hr {
+    border: none; /* Убираем границу */
+    background-color:#257cb6;
+    color: #257cb6; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+   }
+   
+   .user_color{
+       background-color:#f6f6d1;
+       margin-bottom: 5px;
+       margin-top: 5px;
+       border-radius: 7px;
+   }
+   
+   .avatar{
+       margin-bottom: 5px;
+       margin-top: 5px;
+   }
+   
+   .navbar-margin{
+       height: 60px;
+   }
+   
+   .large_font{
+       font-size: 150px;
+   }
+   
+   white-font{
+       color: #b9def0
+   }
+   
+   .div-height50{
+       height: 50px;
+   }

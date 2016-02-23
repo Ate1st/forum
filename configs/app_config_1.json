@@ -1,0 +1,6 @@
+{"default_controller":"main",
+ "default_action":"index",
+ "default_params":null,
+ "default_tpl":"bin/views/default",
+ "tpl_index":"index.php",
+ "avatar":"/user_images/2b7302be582548a608244f1fa0feea7a.png"}
